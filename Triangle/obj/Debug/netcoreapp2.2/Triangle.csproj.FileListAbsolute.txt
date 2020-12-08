@@ -1,0 +1,9 @@
+/Users/arthurbuck/Desktop/epicodus/TriangleProject/Triangle/bin/Debug/netcoreapp2.2/Triangle.deps.json
+/Users/arthurbuck/Desktop/epicodus/TriangleProject/Triangle/bin/Debug/netcoreapp2.2/Triangle.dll
+/Users/arthurbuck/Desktop/epicodus/TriangleProject/Triangle/bin/Debug/netcoreapp2.2/Triangle.pdb
+/Users/arthurbuck/Desktop/epicodus/TriangleProject/Triangle/obj/Debug/netcoreapp2.2/Triangle.csprojAssemblyReference.cache
+/Users/arthurbuck/Desktop/epicodus/TriangleProject/Triangle/obj/Debug/netcoreapp2.2/Triangle.csproj.CoreCompileInputs.cache
+/Users/arthurbuck/Desktop/epicodus/TriangleProject/Triangle/obj/Debug/netcoreapp2.2/Triangle.AssemblyInfoInputs.cache
+/Users/arthurbuck/Desktop/epicodus/TriangleProject/Triangle/obj/Debug/netcoreapp2.2/Triangle.AssemblyInfo.cs
+/Users/arthurbuck/Desktop/epicodus/TriangleProject/Triangle/obj/Debug/netcoreapp2.2/Triangle.dll
+/Users/arthurbuck/Desktop/epicodus/TriangleProject/Triangle/obj/Debug/netcoreapp2.2/Triangle.pdb
