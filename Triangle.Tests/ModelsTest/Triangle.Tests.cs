@@ -22,7 +22,7 @@ namespace Triangle.Tests
     public void SideCheck_IsScalene_True()
     {
       TriangleClass newTriangle = new TriangleClass();
-      Assert.AreEqual("scal", newTriangle.SideCheck(2, 3, 4));
+      Assert.AreEqual("scale", newTriangle.SideCheck(2, 3, 4));
     }
     [TestMethod]
     public void SideCheck_IsNotTri_True()
